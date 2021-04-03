@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://daitasarkar.github.io/csb-nkf2w/static/css/main.ad9fedc5.chunk.css",
+    "main.js": "https://daitasarkar.github.io/csb-nkf2w/static/js/main.0d54a8d6.chunk.js",
+    "main.js.map": "https://daitasarkar.github.io/csb-nkf2w/static/js/main.0d54a8d6.chunk.js.map",
+    "runtime-main.js": "https://daitasarkar.github.io/csb-nkf2w/static/js/runtime-main.063b3438.js",
+    "runtime-main.js.map": "https://daitasarkar.github.io/csb-nkf2w/static/js/runtime-main.063b3438.js.map",
+    "static/js/2.0418bb1a.chunk.js": "https://daitasarkar.github.io/csb-nkf2w/static/js/2.0418bb1a.chunk.js",
+    "static/js/2.0418bb1a.chunk.js.map": "https://daitasarkar.github.io/csb-nkf2w/static/js/2.0418bb1a.chunk.js.map",
+    "index.html": "https://daitasarkar.github.io/csb-nkf2w/index.html",
+    "static/css/main.ad9fedc5.chunk.css.map": "https://daitasarkar.github.io/csb-nkf2w/static/css/main.ad9fedc5.chunk.css.map",
+    "static/js/2.0418bb1a.chunk.js.LICENSE.txt": "https://daitasarkar.github.io/csb-nkf2w/static/js/2.0418bb1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.063b3438.js",
+    "static/js/2.0418bb1a.chunk.js",
+    "static/css/main.ad9fedc5.chunk.css",
+    "static/js/main.0d54a8d6.chunk.js"
+  ]
+}
